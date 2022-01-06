@@ -2701,7 +2701,7 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5rem;
 		}
-		
+
 		ul.alt {
 			list-style: none;
 			padding-left: 0;
@@ -6504,7 +6504,7 @@ input, select, textarea {
 					height: 33vh;
 					object-fit: cover; /*i added this too, idk why but distorts when vertical too much*/
 					border-radius: 0;
-					
+
 				}
 
 			.gallery.style1 article .caption {
